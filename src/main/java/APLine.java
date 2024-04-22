@@ -4,7 +4,7 @@ public class APLine
   /* your code here */
   APLine(int a1,int b1,int c2){
     a =a1; 
-    b= b2;
+    b= b1;
     c=c2;
   }
 
